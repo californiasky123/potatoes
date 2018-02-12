@@ -9,7 +9,7 @@ print ("... making some changes and seeing if I can get them on github")
 
 print ("I'm making changes on GitHub and seeing if I can get them locally.")
 
-
+I THINK THIS WILL BE A CONFICLT. I'M CHANGING IT IN MASTER BUT NOT IN FEATURE2. WHAT WILL HAPPEN? 
 
 Favorite food: Pizza
 Favorite type of music: Rock 
